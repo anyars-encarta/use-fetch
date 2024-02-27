@@ -1,10 +1,11 @@
 import './App.css';
-import UseFetch from './components';
+import UseFetchtHookTest from './components/test';
+
 
 const App = () => {
   return (
     <div className="App">
-      <UseFetch />
+      <UseFetchtHookTest />
     </div>
   );
 }
